@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <code><img src="https://img.shields.io/badge/python 3.6.5-3776AB?style=flat-square&logo=Python&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/JDK 1.8-FFFFFF?style=flat-square&logo=JDK&logoColor=black"/></code>
+<code><img src="https://img.shields.io/badge/JDK 1.8-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"/></code>
 <code><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></code>
 
 *Welcome!*
