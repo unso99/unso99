@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 <code><img src="https://img.shields.io/badge/python 3.6.5-3776AB?style=flat-square&logo=Python&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/JDK 1.8-FFFFFF?style=flat-square&logo=Scala&logoColor=black"/></code>
+<code><img src="https://img.shields.io/badge/JDK 1.8-FFFFFF?style=flat-square&logo=JDK&logoColor=black"/></code>
+<code><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></code>
 
 *Welcome!*
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funso99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
