@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <code><img src="https://img.shields.io/badge/JDK-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"/></code>
 <code><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></code>
 <code><img src="https://img.shields.io/badge/Source tree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=IntelliJ&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Filezilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></code>
 
 
