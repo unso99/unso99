@@ -25,12 +25,7 @@ Here are some ideas to get you started:
 **언어 및 도구**  
 
 <code><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/JDK-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"/></code>
-<code><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></code>
-<code><img src="https://img.shields.io/badge/Source tree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Filezilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></code>
 
 
 **Welcome!**
