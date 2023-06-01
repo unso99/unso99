@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 * 🎨 저만의 공부 흔적을 남기기위해 노력중입니다.
 * 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
-**언어 및 도구**  
-
-<code><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></code>
-
-
 **Welcome!**
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funso99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
